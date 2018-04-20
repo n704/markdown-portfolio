@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://github.com/n704)
+[GitHub](http://github.com/n704)
